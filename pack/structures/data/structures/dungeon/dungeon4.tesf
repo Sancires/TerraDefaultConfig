@@ -1,4 +1,4 @@
-id "husk_dungeon";
+id "dungeon4";
 
 num y = 0;
 

@@ -1,4 +1,4 @@
-id: DEFAULT
+id: DEFAULTMODIFIED
 author: dfsek
 version: 2.0.0
 
@@ -245,7 +245,7 @@ biomes:
           to:
             - JUNGLE: 6
             - BAMBOO_JUNGLE: 1
-            - MEADOW_SAVANNA: 2
+            - SAVANNA_MEADOW: 2
           noise:
             type: Cellular # Use cellular to increase biome size.
             return: CellValue
