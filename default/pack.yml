@@ -165,7 +165,7 @@ biomes:
           type: REPLACE
           from: "BIOME:COLD_OCEAN_DEEP"
           to:
-            - "COLD_OCEAN_DEEP": 4
+            - "COLD_OCEAN_DEEP": 12
             - "FROZEN_OCEAN_DEEP": 1
           noise:
             type: WhiteNoise
@@ -245,6 +245,7 @@ biomes:
           to:
             - JUNGLE: 6
             - BAMBOO_JUNGLE: 1
+            - MEADOW_SAVANNA: 2
           noise:
             type: Cellular # Use cellular to increase biome size.
             return: CellValue
@@ -277,7 +278,7 @@ biomes:
           type: REPLACE
           from: "BIOME:OCEAN_DEEP"
           to:
-            - "OCEAN_DEEP": 7
+            - "OCEAN_DEEP": 12
             - "MUSHROOM": 1
           noise:
             type: Cellular
