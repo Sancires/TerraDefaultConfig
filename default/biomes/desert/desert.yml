@@ -4,7 +4,7 @@ structures:
   - DESERT
   - STRONGHOLD
   - MINESHAFT
-  - DUNGEON
+  - WARM_DUNGEON
 noise-equation: "((-((y / base))) + 1) + noise2(x*0.75, z*0.75)/5 + 0.15"
 elevation:
   equation: "(desert(x, z) + 1) * 0.225 * max(min(noise2(x*0.75, z*0.75) + 0.5, 1), 0)"

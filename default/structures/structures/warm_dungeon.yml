@@ -1,0 +1,9 @@
+scripts:
+  dungeon4: 1
+id: "WARM_DUNGEON"
+spawn:
+  start:
+    min: 16
+    max: 50
+  width: 100
+  padding: 50
