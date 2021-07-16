@@ -1,6 +1,9 @@
 id: AETHER_VOID
 noise-equation: "-(if(max(y-base, 0), |y-base|*16, |y-base|/2)) - .5 + (noise2(x*2, z*2)*3)"
 vanilla: END_MIDLANDS
+colors:
+  grass: 0x22f0b7
+  foliage: 0x2ac473
 palette:
   - "GRASSY": 255
 flora:

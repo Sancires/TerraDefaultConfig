@@ -1,30 +1,7 @@
 id: BETTEREND
 author: dfsek
-version: 1.0.0
-grids:
-  - SHATTERED
-  - SHATTERED
-  - SHATTERED
-  - SHATTERED
-  - SHATTERED
-  - END
-  - END
-  - END
-  - END
-  - END
-  - BIOME:END_VOID_BORDER
-  - BIOME:VOID
-  - BIOME:AETHER_VOID_BORDER
-  - AETHER
-  - AETHER
-  - AETHER
-  - AETHER
-  - AETHER
-grid-options:
-  type: RADIAL
-  radial:
-    radius: 1000
-    internal-grid: BIOME:MAIN_ISLAND
+version: 1.1.0
+
 frequencies:
   zone: 2048
 blend:

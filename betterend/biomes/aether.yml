@@ -1,5 +1,8 @@
 id: AETHER
 extends: END_BIOME
+colors:
+  grass: 0x22f0b7
+  foliage: 0x2ac473
 tags:
   - AETHER
   - OUTER
