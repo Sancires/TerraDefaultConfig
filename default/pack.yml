@@ -221,6 +221,7 @@ biomes:
             - DARK_FOREST: 8
             - SUNFLOWER_PLAINS: 6
             - CRAG: 4
+            - FLOWERING_FOREST: 4
             - MOUNTAINS_PRETTY: 6
           noise: *biome-distribute
       - mutate: # Distribution of cold biomes.
